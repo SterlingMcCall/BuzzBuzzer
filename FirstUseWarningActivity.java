@@ -10,4 +10,5 @@ public class FirstUseWarningActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_first_use_warning);
     }
+    //hi alex made this change
 }
